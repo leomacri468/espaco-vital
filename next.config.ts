@@ -1,11 +1,18 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+  output: "export",
+
+  basePath: process.env.NODE_ENV === "production" ? "/espaco-vital" : "",
+
+  images: {
+    unoptimized: true,
+  },
+
+  cacheComponents: false,
+  partialPrefetching: false,
   reactCompiler: true,
-  allowedDevOrigins: ["192.168.15.104"],
+
   turbopack: {
     rules: {
       "*.css": {
