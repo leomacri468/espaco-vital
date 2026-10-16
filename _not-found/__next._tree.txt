@@ -1,0 +1,4 @@
+:HL["/espaco-vital/_next/static/chunks/443w1m1n7q2iy.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"heep8s4iqxzIwQ7Nyy5wQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

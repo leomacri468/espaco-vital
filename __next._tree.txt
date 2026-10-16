@@ -1,0 +1,6 @@
+:HL["/espaco-vital/_next/static/chunks/443w1m1n7q2iy.css","style"]
+:HL["/espaco-vital/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/espaco-vital/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/espaco-vital/_next/static/media/e8f2fbee2754df70-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"heep8s4iqxzIwQ7Nyy5wQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
