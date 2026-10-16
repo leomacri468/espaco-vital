@@ -3,4 +3,4 @@
 :HL["/espaco-vital/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/espaco-vital/_next/static/media/e8f2fbee2754df70-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"sC75RTUCXTrxB-q8wCqsc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"VzRJ_wNOQKgg01oajRbjF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
